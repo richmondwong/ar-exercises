@@ -10,3 +10,12 @@ puts "Exercise 7"
 puts "----------"
 
 # Your code goes here ...
+class Store < ApplicationRecord
+
+end
+
+
+
+class Employee < ApplicationRecord
+
+end
